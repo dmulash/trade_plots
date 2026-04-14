@@ -1,0 +1,12 @@
+﻿Inputs,Target IRR = 4%,Target IRR = 8%,Target IRR = 12%
+Facility Technical Life (Yr),20,20,20
+Loan Tenor (Yr),20,20,20
+IRR (%),4%,8%,12%
+Operating Margin (%),19.7778%,20.3730%,21.1696%
+LPF Cell Price ($/kWh),106.6022322,107.1319682,107.840949
+Operating Margin ($/kWh),17.60223217,18.13196817,18.84094904
+Materials ($/kWh),45,45,45
+Labor ($/kWh),15,15,15
+Overhead ($/kWh),22.5,22.5,22.5
+OpEx ($/kWh),6.5,6.5,6.5
+Operating Margin check,0,0,0

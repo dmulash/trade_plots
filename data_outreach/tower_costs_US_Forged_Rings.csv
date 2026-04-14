@@ -1,0 +1,8 @@
+﻿component costs, Landed cost - Europe , Production cost - Europe (+tariffs) , Production cost - Europe , Production cost - US East Coast , Landed cost - US East Coast 
+Other,400000 ,400000 ,400000 ,600000 ,600000 
+Labor,700000 ,700000 ,700000 ,700000 ,700000 
+Raw materials,2500000 ,2500000 ,2500000 ,2900000 ,2900000 
+Factory amortization,170719 ,0 ,0 ,0 ,624251 
+Transportation,400000 ,0 ,0 ,0 ,50000 
+Tariffs,720000 ,720000 ,0 ,0 ,0 
+Total,4890719 ,4320000 ,3600000 ,4200000 ,4874251 

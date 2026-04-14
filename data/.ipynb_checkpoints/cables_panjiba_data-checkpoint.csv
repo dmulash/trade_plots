@@ -1,0 +1,63 @@
+﻿NREL category (Component category),NREL category (Associated Project),Arrival Date,Consignee (Original Format),Voltage level (kV),Shipment Origin,Quantity,Notes
+Export Cable,Block Island,2016-03-28,"LS CABLE AMERICA INC.
+222 BRIDGE PLAZA SOUTH , SUITE 530
+FORT LEE , NJ 07024
+DIRECT:201-947-0002
+TEMOBILE: 201-289-2703",33,South Korea,45,Distribution of export and array from Woodmac on the same shipment
+Array Cable,Block Island,2016-03-28,"LS CABLE AMERICA INC.
+222 BRIDGE PLAZA SOUTH , SUITE 530
+FORT LEE , NJ 07024
+DIRECT:201-947-0002
+TEMOBILE: 201-289-2703",33,South Korea,3,Distribution of export and array from Woodmac on the same shipment
+Array Cable,CVOW-Pilot,2020-10-16,"PRYSMIAN CABLES AND SYSTEMS USA LLC
+700 INDUSTRIAL DRIVE
+LEXINGTON SC29072 US",33,Italy,3,Distribution of export and array from Woodmac on the same shipment
+Export Cable,CVOW-Pilot,2020-10-16,"PRYSMIAN CABLES AND SYSTEMS USA LLC
+700 INDUSTRIAL DRIVE
+LEXINGTON SC29072 US",33,Italy,20,Distribution of export and array from Woodmac on the same shipment
+Export Cable,CVOW-Pilot,2018-06-27,"PRYSMIAN CABLES AND SYSTEMS USA LCC
+2048 INDUSTRIAL BLVD
+LEXINGTON SC29072 US",33,Netherlands,23,"Half of the order to Netherlands and half to Italy (Guess as WM data indicates this cables come just from Bremerhaven, Germany but there is not a Prysmian factory there and no shipments found to Virginia from there for offshore wind tables)"
+Array Cable,Revolution Wind,2024-09-04,"REVOLUTION WIND, LLC
+56 EXCHANGE TERRACE, SUITE 300
+PROVIDENCE, RI 02903 US
+WATERSON TERMINAL SERVICES, 35
+TETERMINAL ROAD, PROVIDENCE, RI 02905",66,Greece,98,from Woodmac
+Array Cable,South Fork,2023-02-02,"SOUTH FORK WIND LLC
+56 EXCHANGE TERRANCE
+SU. 300
+RI 02903
+TEPROVIDENCE",66,Greece,163,sum of all orders from Woodmac (assume all the cables arrived in this shipment)
+Array Cable,Vineyard Wind 1,2023-09-11,"JAN DE NUL US LLC
+1209 ORANGE STREET
+NEW CASTLE COUNTY
+DELAWARE 19801",66,United Kingdom,210,assign all cable from only order from WM
+Array Cable,CVOW-C,2025-02-01,"PRYSMIAN CABLES & SYSEMS USA LLC
+4 TESSENEER DRIVE
+HIGHLANDS HEIGHTS KY 41076 US",66,Finland,71,
+Array Cable,CVOW-C,2025-01-25,"PRYSMIAN CABLES & SYSEMS USA LLC
+4 TESSENEER DRIVE
+HIGHLANDS HEIGHTS KY 41076 US",66,Italy,36,one order from WM (cvow-c I only) on 1 shipment
+Export Cable,Vineyard Wind 1,2023-03-22,"PRYSMIAN CABLES AND SYSTEMS USA LLC
+700 INDUSTRIAL DRIVE
+LEXINGTON SC 29072",220,Finland,33.5,assign all cable km from 2 shipments in WM and divide by 4 shipments
+Export Cable,Vineyard Wind 1,2023-01-12,"PRYSMIAN CABLES & SYSTEMS USA, LLC
+700 INDUSTRIAL DRIVE
+LEXINGTON 29072
+USA",220,Finland,33.5,assign all cable km from 2 shipments in WM and divide by 4 shipments
+Export Cable,Vineyard Wind 1,2022-12-15,"PRYSMIAN CABLES & SYSTEMS USA, LLC
+700 INDUSTRIAL DRIVE
+LEXINGTON 29072
+USA",220,Finland,33.5,assign all cable km from 2 shipments in WM and divide by 4 shipments
+Export Cable,Vineyard Wind 1,2022-10-26,"PRYSMIAN CABLES & SYSTEMS US
+700 INDUSTRIAL DRIVE
+LEXINGTON 29072
+USA",220,Finland,33.5,assign all cable km from 2 shipments in WM and divide by 4 shipments
+Export Cable,CVOW-C,2024-11-06,"DEME OFFSHORE US LLC
+256 MARGINAL STREET
+BLDG 36
+BOSTON MA 02128 US",220,Italy,93,one order from WM (cvow-c I only) divided by 2 shipments
+Export Cable,CVOW-C,2024-08-23,"DEME OFFSHORE US LLC
+256 MARGINAL STREET
+BLDG 36
+BOSTON MA 02128 US",220,Italy,93,one order from WM (cvow-c I only) divided by 2 shipments

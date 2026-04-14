@@ -1,0 +1,53 @@
+category,state/country,multiplier,ilostat_number,ilostat_currency,ilostat_year,currency_to_usd,final_number_usd
+Great Lakes,Illinois,0.970951067,42.41,USD,2023,1,42.4111
+Great Lakes,Indiana,0.974122814,42.55,USD,2023,1,42.5497
+Great Lakes,Michigan,1.041522439,45.49,USD,2023,1,45.4937
+Great Lakes,Minnesota,1.09028805,47.62,USD,2023,1,47.6238
+Great Lakes,New York,1.008219095,44.04,USD,2023,1,44.0390
+Great Lakes,Ohio,1.013769652,44.28,USD,2023,1,44.2815
+Great Lakes,Pennsylvania,1.030421324,45.01,USD,2023,1,45.0088
+Great Lakes,Wisconsin,0.989188612,43.21,USD,2023,1,43.2078
+US East Coast,Connecticut,1.154119459,50.41,USD,2023,1,50.4119
+US East Coast,Delaware,1.054209427,46.05,USD,2023,1,46.0479
+US East Coast,Florida,1.123591394,49.08,USD,2023,1,49.0785
+US East Coast,Georgia,0.941612406,41.13,USD,2023,1,41.1296
+US East Coast,Maine,1.036764818,45.29,USD,2023,1,45.2859
+US East Coast,Maryland,1.018130804,44.47,USD,2023,1,44.4720
+US East Coast,Massachusetts,1.084341024,47.36,USD,2023,1,47.3640
+US East Coast,New Hampshire,1.018923741,44.51,USD,2023,1,44.5066
+US East Coast,New Jersey,1.005443816,43.92,USD,2023,1,43.9178
+US East Coast,New York,1.008219095,44.04,USD,2023,1,44.0390
+US East Coast,North Carolina,0.87460925,38.20,USD,2023,1,38.2029
+US East Coast,Pennsylvania,1.030421324,45.01,USD,2023,1,45.0088
+US East Coast,Rhode Island,0.988792144,43.19,USD,2023,1,43.1904
+US East Coast,South Carolina,0.989188612,43.21,USD,2023,1,43.2078
+US East Coast,Virginia,0.975708687,42.62,USD,2023,1,42.6190
+Europe (2023 average EUR/USD exchange rate),Germany,,46.2,EUR,2023,1.0821,49.9930
+Europe (2023 average EUR/USD exchange rate),Denmark,,51.6,EUR,2023,1.0821,55.7927
+Europe (2023 average EUR/USD exchange rate),Finland,,41.5,EUR,2023,1.0821,44.9072
+Europe (2023 average EUR/USD exchange rate),France,,44.6,EUR,2023,1.0821,48.2617
+Europe (2023 average EUR/USD exchange rate),Greece,,15.2,EUR,2023,1.0821,16.4479
+Europe (2023 average EUR/USD exchange rate),Italy,,30.4,EUR,2023,1.0821,32.8958
+Europe (2023 average EUR/USD exchange rate),Portugal,,14.6,EUR,2023,1.0821,15.7987
+US Average,United States of America,,43.68,USD,2023,1,43.6800
+Europe (2024 average EUR/USD exchange rate),Germany,,46.2,EUR,2023,1.0822,49.9976
+Europe (2024 average EUR/USD exchange rate),Denmark,,51.6,EUR,2023,1.0822,55.7978
+Europe (2024 average EUR/USD exchange rate),Finland,,41.5,EUR,2023,1.0822,44.9113
+Europe (2024 average EUR/USD exchange rate),France,,44.6,EUR,2023,1.0822,48.2661
+Europe (2024 average EUR/USD exchange rate),Greece,,15.2,EUR,2023,1.0822,16.4494
+Europe (2024 average EUR/USD exchange rate),Italy,,30.4,EUR,2023,1.0822,32.8989
+Europe (2024 average EUR/USD exchange rate),Portugal,,14.6,EUR,2023,1.0822,15.8001
+Europe (2025 H1 average EUR/USD exchange rate),Germany,,46.2,EUR,2023,1.1042,51.0140
+Europe (2025 H1 average EUR/USD exchange rate),Denmark,,51.6,EUR,2023,1.1042,56.9322
+Europe (2025 H1 average EUR/USD exchange rate),Finland,,41.5,EUR,2023,1.1042,45.8243
+Europe (2025 H1 average EUR/USD exchange rate),France,,44.6,EUR,2023,1.1042,49.2473
+Europe (2025 H1 average EUR/USD exchange rate),Greece,,15.2,EUR,2023,1.1042,16.7838
+Europe (2025 H1 average EUR/USD exchange rate),Italy,,30.4,EUR,2023,1.1042,33.5677
+Europe (2025 H1 average EUR/USD exchange rate),Portugal,,14.6,EUR,2023,1.1042,16.1213
+Europe (2025 Q2 average EUR/USD exchange rate),Germany,,46.2,EUR,2023,1.1469,52.9868
+Europe (2025 Q2 average EUR/USD exchange rate),Denmark,,51.6,EUR,2023,1.1469,59.1338
+Europe (2025 Q2 average EUR/USD exchange rate),Finland,,41.5,EUR,2023,1.1469,47.5964
+Europe (2025 Q2 average EUR/USD exchange rate),France,,44.6,EUR,2023,1.1469,51.1517
+Europe (2025 Q2 average EUR/USD exchange rate),Greece,,15.2,EUR,2023,1.1469,17.4329
+Europe (2025 Q2 average EUR/USD exchange rate),Italy,,30.4,EUR,2023,1.1469,34.8658
+Europe (2025 Q2 average EUR/USD exchange rate),Portugal,,14.6,EUR,2023,1.1469,16.7447

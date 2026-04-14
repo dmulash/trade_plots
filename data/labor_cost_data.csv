@@ -1,0 +1,39 @@
+category,state/country,multiplier,ilostat_number,ilostat_currency,ilostat_year,currency_to_usd,final_number_usd
+Great Lakes,Illinois,0.970951067,42.41,USD,2023,1,42.4111
+Great Lakes,Indiana,0.974122814,42.55,USD,2023,1,42.5497
+Great Lakes,Michigan,1.041522439,45.49,USD,2023,1,45.4937
+Great Lakes,Minnesota,1.09028805,47.62,USD,2023,1,47.6238
+Great Lakes,New York,1.008219095,44.04,USD,2023,1,44.0390
+Great Lakes,Ohio,1.013769652,44.28,USD,2023,1,44.2815
+Great Lakes,Pennsylvania,1.030421324,45.01,USD,2023,1,45.0088
+Great Lakes,Wisconsin,0.989188612,43.21,USD,2023,1,43.2078
+US East Coast,Connecticut,1.154119459,50.41,USD,2023,1,50.4119
+US East Coast,Delaware,1.054209427,46.05,USD,2023,1,46.0479
+US East Coast,Florida,1.123591394,49.08,USD,2023,1,49.0785
+US East Coast,Georgia,0.941612406,41.13,USD,2023,1,41.1296
+US East Coast,Maine,1.036764818,45.29,USD,2023,1,45.2859
+US East Coast,Maryland,1.018130804,44.47,USD,2023,1,44.4720
+US East Coast,Massachusetts,1.084341024,47.36,USD,2023,1,47.3640
+US East Coast,New Hampshire,1.018923741,44.51,USD,2023,1,44.5066
+US East Coast,New Jersey,1.005443816,43.92,USD,2023,1,43.9178
+US East Coast,New York,1.008219095,44.04,USD,2023,1,44.0390
+US East Coast,North Carolina,0.87460925,38.20,USD,2023,1,38.2029
+US East Coast,Pennsylvania,1.030421324,45.01,USD,2023,1,45.0088
+US East Coast,Rhode Island,0.988792144,43.19,USD,2023,1,43.1904
+US East Coast,South Carolina,0.989188612,43.21,USD,2023,1,43.2078
+US East Coast,Virginia,0.975708687,42.62,USD,2023,1,42.6190
+Europe ($1.08/EUR exchange rate),Germany,,46.2,EUR,2023,1.08,49.8960
+Europe ($1.08/EUR exchange rate),Denmark,,51.6,EUR,2023,1.08,55.6844
+Europe ($1.08/EUR exchange rate),Finland,,41.5,EUR,2023,1.08,44.8200
+Europe ($1.08/EUR exchange rate),France,,44.6,EUR,2023,1.08,48.1680
+Europe ($1.08/EUR exchange rate),Greece,,15.2,EUR,2023,1.08,16.4160
+Europe ($1.08/EUR exchange rate),Italy,,30.4,EUR,2023,1.08,32.8320
+Europe ($1.08/EUR exchange rate),Portugal,,14.6,EUR,2023,1.08,15.7680
+US Average,United States of America,,43.68,USD,2023,1,43.6800
+Europe ($1.14/EUR exchange rate),Germany,,46.2,EUR,2023,1.14,52.6680
+Europe ($1.14/EUR exchange rate),Denmark,,51.6,EUR,2023,1.14,58.7780
+Europe ($1.14/EUR exchange rate),Finland,,41.5,EUR,2023,1.14,47.3100
+Europe ($1.14/EUR exchange rate),France,,44.6,EUR,2023,1.14,50.8440
+Europe ($1.14/EUR exchange rate),Greece,,15.2,EUR,2023,1.14,17.3280
+Europe ($1.14/EUR exchange rate),Italy,,30.4,EUR,2023,1.14,34.6560
+Europe ($1.14/EUR exchange rate),Portugal,,14.6,EUR,2023,1.14,16.6440
